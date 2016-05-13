@@ -22,6 +22,11 @@ body {
 /***** 히어로 유닛 *****/
 
 /* 큰 버튼 */
+.picture {
+    height : 700px;
+    width : 700px;
+}
+
 
 .btn-lg {
     font-size: 16px;
