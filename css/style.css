@@ -30,6 +30,11 @@ body {
     min-width: 300px;
 }
 
-
+.image-circle {
+    border-radius: 100%;
+    width: 80px;
+    height: 80px;
+}
 /***** 푸터 *****/
 
+.benefit {height: 360px}
